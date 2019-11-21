@@ -1,4 +1,4 @@
-# SAGGE
+# SAGE
 Scalable Graph Generation
 
 Release still pending copyright approvals...
